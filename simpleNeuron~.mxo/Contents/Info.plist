@@ -7,13 +7,13 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>simpleNeuron</string>
+	<string>simpleNeuron~</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.cycling74.simpleNeuron</string>
+	<string>com.cycling74.simpleNeuron-</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.1.4</string>
 	<key>CFBundleLongVersionString</key>
-	<string>simpleNeuron 6.1.4, Copyright 2013 Cycling '74</string>
+	<string>simpleNeuron~ 6.1.4, Copyright 2013 Cycling '74</string>
 	<key>CFBundlePackageType</key>
 	<string>iLaX</string>
 	<key>CFBundleShortVersionString</key>
